@@ -1,0 +1,9 @@
+{
+  "name": "vue3-editor-quill",
+  "version": "0.0.2",
+  "description": "Vue3 Quill is a wrapper around QuillJS, to enable easy integration with Vue 3",
+  "main": "index.js",
+  "repository": "https://github.com/imadx/vue3-quill.git",
+  "author": "Ishan Madhusanka <ishan.madhusanka@railsbank.com>",
+  "license": "MIT"
+}
